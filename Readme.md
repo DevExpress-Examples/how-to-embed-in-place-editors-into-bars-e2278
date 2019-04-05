@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/CreateBarEditItems/MainPage.xaml) (VB: [MainPage.xaml](./VB/CreateBarEditItems/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/CreateBarEditItems/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CreateBarEditItems/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/CreateBarEditItems/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CreateBarEditItems/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to embed in-place editors into bars
 
